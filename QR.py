@@ -24,7 +24,7 @@ def generar_codigo():
 
     # Muestra la imagen en la ventana
     imagen.show()
-
+    # Guarda automaticamente la imagen
     imagen.save('qr_image.png')
 
 # Crea una ventana
